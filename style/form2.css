@@ -1,0 +1,401 @@
+
+
+@media(min-width:900px){
+    
+    #section1{
+        padding-top: 70px;
+        display: flex;
+        justify-content: center;
+       
+    }
+    
+#article1{
+    width: 363px;
+    background-color:#FFFFFF ;
+    padding: 6px 16px 23px 16px;
+    box-shadow:2px 5px 15px #CBCDCF;
+    border-radius: 8px;
+    margin-right: 114px;
+
+   
+}
+    
+    #section1 .container  #showcase{
+        float: right;
+       
+    }
+    
+    #section1 .container #article2{
+        width: 45%;
+        float: left;
+        margin-left: 110px;
+        margin-top: 10px;
+        
+    }
+    
+    #section1 .container #article2 h1{
+    padding-bottom: 0;
+    margin-bottom: 0;
+    margin-left: 4px;
+    color: #1877F2;
+    font-weight: bolder;
+    font-size: 60px;
+    font-family:'Freight Sans Bold', Helvetica, Arial, sans-serif;
+
+}
+    
+    #section1 .container #article2 p{
+ 
+    color: #1C1E21;
+    font-size: 28px;
+    padding-top: 10px;
+    margin-top: 0;
+    font-family: sans-serif;
+  
+}
+#section1   #showcase #advert{
+    margin-left:50px ;
+    color: #1C1E21;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    padding-top: 13px;
+}
+
+
+#article1  .comment{
+    
+    text-align: center;
+    color: #1877F2;
+    font-family: sans-serif;
+    font-size: 14px;
+    padding-top:3px;
+    padding-bottom: 7px;
+}
+
+    
+#section1  .container{
+    width: 1200px;
+    margin-left: 0;
+}
+
+
+#footer .contain{
+    width:78%;
+    margin-left: 140px;
+}
+
+    
+ #footer{
+    min-height: 165px;
+   background-color: white;
+   padding-top: 10px;
+   margin-top: 184px;
+ 
+}
+
+#footer .activities1 li{
+   color: #8A8D91;
+   display: inline;
+   padding-right: 7px;
+   padding-bottom: 0;
+   margin-bottom: 0px;
+   font-size: 12px;
+   font-family: helvetica;
+
+}
+#footer .activities1{
+   margin-bottom: 8px;
+}
+#footer .activities1 li button {
+   background-color:#F5F6F7;
+   color: #676E7D;
+   font-size: 18px;
+   border: 1px solid #CCD0D5;
+   padding: 0 7px 0 7px;
+   border-radius: 2px;
+}
+#footer .underline{
+   height: 1px;
+   width: 95%;
+   background-color: #DDDFE2;
+  margin-left: 40px;
+ 
+}
+
+.activities2 {
+
+
+   margin-top: 8px;
+ 
+}
+
+#footer .activities2 li{
+   display: inline;
+   padding-top: 30px;
+   margin-top: 30px;
+   padding-right: 17px;
+   font-size: 12px;
+   color: #8A8D91;
+   font-family: helvetica;
+
+
+}
+
+#footer p{
+   font-size: 11px;
+   color: #737373;
+   font-family: helvetica;
+   margin-left: 41px;
+   margin-top: 20px;
+
+}
+
+#footer p :hover{
+    color: #8A8D91;
+    text-decoration: underline;
+}
+
+
+
+    
+    }
+    
+
+
+    
+
+body{
+    background-color: #F0F2F5;
+    padding: 0;
+    margin: 0;
+}
+.clr{
+    clear: both;
+}
+
+@media(max-width:899px){
+    
+
+    *{
+        padding: 0;
+        margin: 0;
+    }
+    
+    #section1 #article2 p{
+ 
+        color: #1C1E21;
+        font-size: 24px;
+        padding-top: 10px;
+        margin-top: 0;
+        font-family: sans-serif;
+        width: 400px;
+        padding-left: 50px;
+        margin-left: auto;
+        margin-right: auto;
+
+   }
+   
+#section1 #article2 h1{
+    text-indent: -1.3em;
+    text-align: center;
+    margin-top: 20px;
+    padding-left: 77px;
+    padding-top: 23px;
+    margin-bottom: 0;
+    color: #1877F2;
+    font-weight: bolder;
+    font-size: 60px;
+    font-family:'Freight Sans Bold', Helvetica, Arial, sans-serif;
+
+}
+
+#article1{
+    width: 363px;
+    background-color:#FFFFFF ;
+    padding: 6px 16px 23px 16px;
+    box-shadow:1px 2px 16px #CBCDCF;
+    border-radius: 8px;
+    margin-right: 114px;
+    margin: 45px  auto 0 auto;
+   
+}
+
+
+#article1  .comment{
+    
+    text-align: center;
+    color: #1877F2;
+    font-family: sans-serif;
+    font-size: 14px;
+    padding-top:15px;
+    padding-bottom: 7px;
+} 
+
+
+
+#section1   #showcase #advert{
+    /* margin-right: auto; */
+    color: #1C1E21;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    padding-top: 27px;
+    text-align: center;
+}
+
+
+
+#footer{
+    min-height: 150%;
+   background-color: white;
+   padding-top: 20px;
+   margin-top: 184px;
+  
+}
+
+#footer .activities1 li{
+   color: #8A8D91;
+   display: inline;
+   padding-right: 7px;
+   padding-bottom: 0;
+   margin-bottom: 0px;
+   font-size: 12px;
+   font-family: helvetica;
+
+}
+#footer .activities1{
+   margin-bottom: 7px;
+}
+#footer .activities1 li button {
+   background-color:#F5F6F7;
+   color: #676E7D;
+   font-size: 18px;
+   border: 1px solid #CCD0D5;
+   padding: 0 9px 0 9px;
+   border-radius: 2px;
+}
+#footer .underline{
+   height: 1px;
+   width: 100%;
+   background-color: #DDDFE2;
+ 
+}
+
+.activities2 {
+
+
+   margin-top: 8px;
+ 
+}
+
+#footer .activities2 li{
+   display: inline;
+   padding-top: 30px;
+   margin-top: 30px;
+   padding-right: 17px;
+   font-size: 12px;
+   color: #8A8D91;
+   font-family: helvetica;
+
+
+}
+
+#footer p{
+   font-size: 11px;
+   color: #737373;
+   font-family: helvetica;
+   /* margin-left: 41px; */
+   padding-top: 20px;
+   padding-bottom: 20px;
+
+}
+
+
+
+#footer .contain{
+    width: 75%;
+    margin-left: 50px;
+}
+
+}
+
+
+
+
+
+
+
+
+#article1 #myForm .form1{
+   position: relative;
+}
+
+#article1 #myForm .placeholder{
+    position: absolute;
+    top: 26px;
+    left: 17px;
+    font-size: 17px;
+    color:#90949C ;
+    font-family: helvetica;
+}
+
+
+#article1 #myForm input{
+    padding: 18px;
+    margin-top: 10px;
+    width: 90%;
+    border:1px solid #DDDFE2;
+    margin-bottom: 3px;
+    border-radius: 7px;
+    outline-color:#1877F2;
+}
+#article1 #myForm .btn3{
+    padding: 12px;
+    margin-top: 13px;
+    width: 365px;
+    background-color:#1877F2 ;
+    border: none;
+    border-radius: 7px;
+    font-size: 20px;
+    color: white;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+.line{
+    width: 100%;
+    height:1px;
+    background-color: #DADDE1;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 16px;
+
+}
+
+
+.btn2{
+    padding: 12px;
+    margin-top: 25px;
+    background-color:#42B72A ;
+    padding: 15px 20px 15px 20px;
+    text-align: center;
+    border: none;
+    border-radius: 7px;
+    font-size: 16px;
+    color: white;
+    text-transform: capitalize;
+    font-weight: bold;
+    margin-left: 83px;
+   
+}
+#advert span{
+    color: #1C1E21;
+    font-weight: bold;
+    font-size:13px ;
+    /* font-family: sans-serif; */
+}
+
+
+li:hover{
+    color: #8A8D91;
+    text-decoration: underline;
+}
